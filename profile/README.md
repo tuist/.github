@@ -5,4 +5,4 @@ This often leads to developer frustration, and the companies that can afford it,
 
 We believe painless Xcode development with large projects can be **enjoyable** keeping things **simple** and without requiring an **infrastructure team.** Tuist achieves that by leveraging Xcode project generation. It provides an explicit interface in Swift to declare modular projects. Unlike YAML-baed project generators, it can optimize your projects' graph at generation time by removing the unnecessary targets and replacing some of them with their binary counterpart.
 
-**Focus** on building great apps for Apple platforms, and we take care of the rest.
+**Focus** on building great apps for Apple platforms, and we take care of the rest ❤️.
