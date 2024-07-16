@@ -1,8 +1,7 @@
 # Tuist
 
-Scaling up Xcode projects is a tedious undertaking: Git conflicts in `.pbxproj` files, slow Xcode, large build times, and brittle projects that break easily when adding/removing targets to its graph.
-This often leads to developer frustration, and the companies that can afford it, create infrastructure teams dedicated to mitigate those pains. In few cases, the pain is mitigated with the complexity of alternative build systems like [Bazel](https://bazel.build/).
+In the world of app development, particularly for platforms like Apple's, organizations often encounter **productivity roadblocks.** These can include sluggish compilation times, unreliable tests, and intricate automation workflows that drain resources. Traditionally, companies address these issues by forming dedicated platform teams. These specialists maintain codebase health and integrity, freeing other developers to focus on feature creation. However, this approach can be expensive and risky, as the departure of key team members can severely impact productivity.
 
-We believe painless Xcode development with large projects can be **enjoyable** keeping things **simple** and without requiring an **infrastructure team.** Tuist achieves that by leveraging Xcode project generation. It provides an explicit interface in Swift to declare modular projects. Unlike YAML-baed project generators, it can optimize your projects' graph at generation time by removing the unnecessary targets and replacing some of them with their binary counterpart.
+**Tuist is a toolchain designed to accelerate and enhance app development.** We integrate seamlessly with official tools and systems, meeting developers in familiar territory. By shouldering the burden of tool and system integration, we enable teams to channel their energy into feature development and improving the overall developer experience. In essence, Tuist serves as your virtual platform team. We're with you every step of the way - from the spark of an app idea to its user launch - tackling challenges as they arise.
 
-**Focus** on building great apps for Apple platforms, and we take care of the rest ❤️.
+Tuist is comprised of **a [CLI](https://github.com/tuist/tuist)**, which is the main entry point for developers, and a server that the CLI integrates with to persist state and integrate with other publicly available services.
