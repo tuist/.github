@@ -1,6 +1,6 @@
 # Tuist
 
-Tuist enhances Apple's native toolchain to streamline and scale app development, fostering a productive and sustainable development environment.:
+Tuist enhances Apple's native toolchain to streamline and scale app development, fostering a productive and sustainable development environment:
 
 - 📂 Simplify the management of large & modular projects
 - 🚄 Optimize your build and test runs
