@@ -12,6 +12,7 @@ The following solutions are part of Tuist:
 - [📱 **Bundle insights**](https://docs.tuist.dev/en/guides/develop/bundle-size): Analyze your built apps and get suggestions to improve them.
 - [📱 **Previews**](https://docs.tuist.dev/en/guides/features/previews): Sharing apps (previews) as easy as sharing a link.
 - [✅ **QA**](https://docs.tuist.dev/en/guides/features/qa): QA your app using LLM-based agents.
+
 Openness and community are cornerstones in shaping Tuist, as we believe they are the key to building the best solution. We recommend checking out the following resources:
 
 - [📑 **Documentation**](https://docs.tuist.dev)
